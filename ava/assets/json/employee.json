@@ -1,0 +1,14 @@
+{
+	"employees": {
+		"employee": [
+			{
+				"eCode": "1",
+				"eName": "Brian"
+			},
+			{
+				"eCode": "2",
+				"eName": "Bryan"
+			}
+		]
+	}
+}

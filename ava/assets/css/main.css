@@ -1,0 +1,26 @@
+
+
+.bs-docs-header {
+	background-color: #6f5499;	
+}
+
+.ml10 {
+	margin-left: 10px;
+}
+
+.mb10 {
+	margin-bottom: 10px;
+}
+
+colgroup col.success {
+  background-color: #dff0d8;
+}
+colgroup col.error{
+  background-color: #f2dede;
+}
+colgroup col.warning {
+  background-color: #fcf8e3;
+}
+colgroup col.info {
+  background-color: #d9edf7;
+}

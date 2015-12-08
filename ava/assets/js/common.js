@@ -1,0 +1,1 @@
+function drawStatus(t,a){switch(a.toString()){case"1":var c="#00FF00";break;case"2":var c="#FFBF00";break;case"3":var c="#FF0000"}ctx.fillStyle=c,ctx.beginPath();var e=$("#area_"+t).attr("dot"),r=e.split(",");ctx.arc(r[0],r[1],5,0,2*Math.PI,!0),ctx.closePath(),ctx.fill(),ctx.lineWidth=2,ctx.strokeStyle="#003300",ctx.stroke()}
